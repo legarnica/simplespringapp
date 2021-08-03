@@ -10,6 +10,6 @@ public class PrincipalController {
 
     @GetMapping("/saluda")
     public String saluda(){
-        return "hola mundo";
+        return "hola beanstalk";
     }
 }
